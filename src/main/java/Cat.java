@@ -1,5 +1,3 @@
-public class Cat {
-    private String name;
-    private int age;
-    private String color;
+public class Cat extends Animal {
+
 }
